@@ -1,2 +1,2 @@
 # chatbots
-A collection of talkative artificial intelligence
+A collection of talkative artificial intelligence, from a basic retrieval chatbot to a generative pre trained bot. 
