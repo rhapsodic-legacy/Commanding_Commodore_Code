@@ -1,3 +1,3 @@
-## chatbots
-A collection of talkative artificial intelligence models.
-###### From recall to generative to full interaction capabilities, however only the recall bot is available until NDA's are waved. 
+## Commanding_Commodore_Code
+This repositorty follows the 'Arcade_Arcadia', expanding skillsets and more commplex projects are taken on. 
+###### From GI Joe to ...
